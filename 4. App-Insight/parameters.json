@@ -6,7 +6,7 @@
       "value": "web"
     },
     "AppInsight-name": {
-      "value": "CM-TRRA-QA-Temp-APP-INSIGHTS"
+      "value": "$AppInsight-name"
     },
     "regionId": {
       "value": "North Central US"
@@ -15,7 +15,7 @@
       "value": {}
     },
     "ResourceGroupName": {
-      "value": "CM-TRRA-QA-Temp-RG"
+      "value": "$ResourceGroupName"
     }
   }
 }
