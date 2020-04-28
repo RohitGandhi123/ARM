@@ -6,7 +6,7 @@
       "value": "web"
     },
     "AppInsight-name": {
-      "value": "$AppInsight-name"
+      "value": "$AppInsightName"
     },
     "regionId": {
       "value": "North Central US"
